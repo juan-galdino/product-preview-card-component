@@ -21,7 +21,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/juan-galdino/product-preview-card-component">
-    <img src="images/frontend-mentor-logo.jpg" alt="Logo" width="80" height="80" style="border-radius: 100%">
+    <img src="src/images/frontend-mentor-logo.jpg" alt="Logo" width="80" height="80" style="border-radius: 100%">
   </a>
 
 <h3 align="center">Product Preview Card Component</h3>
@@ -175,7 +175,7 @@ Project Link: [https://github.com/juan-galdino/product-preview-card-component](h
 [license-url]: https://github.com/juan-galdino/product-preview-card-component/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/juangaldino
-[product-screenshot]: images/product-screenshot.png
+[product-screenshot]: src/images/product-screenshot.png
 [sass-shield]: https://img.shields.io/badge/Sass-BF4080?style=for-the-badge&logo=sass&logoColor=white
 [sass-url]: sass-lang.com
 [gitmoji-shield]: https://img.shields.io/badge/gitmoji-%20%F0%9F%98%9C%20%F0%9F%98%8D-FFDD67.svg?style=for-the-badge
