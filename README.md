@@ -107,7 +107,7 @@ Make sure you have [NodeJs](https://nodejs.org) installed.
 
 ## Roadmap
 
-- [ ] HTML Structure
+- [x] HTML Structure
 - [ ] Mobile Design
 - [ ] Desktop Design
 
