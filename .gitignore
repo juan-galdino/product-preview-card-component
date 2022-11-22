@@ -3,7 +3,7 @@
 .prettierignore
 
 # Avoid dist folder, because it's only for production files.
-dist
+dist/
 
 # Ignore node_modules
 node_modules
