@@ -6,7 +6,7 @@
 .dist
 
 # Ignore node_modules
-.node_modules
+node_modules
 
 # Avoid for now desgin folder
 .design
