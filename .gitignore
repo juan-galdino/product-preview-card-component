@@ -1,0 +1,13 @@
+# Avoid your project being littered with annoying .DS_Store files!
+.DS_Store
+.prettierignore
+
+# Avoid dist folder, because it's only for production files.
+.dist
+
+# Ignore node_modules
+.node_modules
+
+# Avoid for now desgin folder
+.design
+style-guide.md
