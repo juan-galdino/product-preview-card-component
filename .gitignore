@@ -11,3 +11,5 @@ node_modules
 # Avoid for now desgin folder
 .design
 style-guide.md
+
+.parcel-cache

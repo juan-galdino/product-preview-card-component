@@ -4,12 +4,14 @@
   "description": "A simple product preview card component.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
   },
   "keywords": [],
   "author": "juan-galdino",
   "license": "MIT",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.0",
     "parcel": "^2.8.0",
     "sass": "^1.56.1"
   }
