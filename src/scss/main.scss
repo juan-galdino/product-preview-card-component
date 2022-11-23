@@ -1,5 +1,1 @@
-$backgroundColor: hsl(30, 38%, 92%);
-
-body {
-  background-color: $backgroundColor;
-}
+@forward 'globals';
