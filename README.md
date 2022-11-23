@@ -86,6 +86,8 @@ a place where are a lot of challenges for every level of frontend skills. The ob
 
 ## Getting Started
 
+The following commands you will be executing them on your terminal.
+
 ### Prerequisites
 
 Make sure you have [NodeJs](https://nodejs.org) installed.
@@ -100,6 +102,12 @@ Make sure you have [NodeJs](https://nodejs.org) installed.
    ```sh
    npm install
    ```
+3. Run the following command.
+   ```sh
+   npm run dev
+   ```
+4. Get the localhost link provided and open it in your browser.
+   <p><img src="src/images/terminal-print.png" alt="Screenshot of terminal."></p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,7 +116,7 @@ Make sure you have [NodeJs](https://nodejs.org) installed.
 ## Roadmap
 
 - [x] HTML Structure
-- [ ] Mobile Design
+- [x] Mobile Design
 - [ ] Desktop Design
 
 See the [open issues](https://github.com/juan-galdino/product-preview-card-component/issues) for a full list of proposed features (and known issues).
