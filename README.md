@@ -69,7 +69,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Card component Screen Shot][product-screenshot]]
 
 This project is just a way to solve this challenge from [Frontend Mentor][frontend-mentor-url],
 a place where are a lot of challenges for every level of frontend skills. The objective is to reproduce in code the same image above.
