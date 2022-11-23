@@ -1,6 +1,7 @@
 @use '../utils' as *; 
 
 .product {
+  display: grid;
   max-width: 21.4375rem;
   background-color: $productBackgroundColor;
   border-radius: 1.25rem;
@@ -71,4 +72,3 @@
   }
   
 }
-
