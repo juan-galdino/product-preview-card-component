@@ -5,6 +5,7 @@
   background-color: $productBackgroundColor;
   border-radius: 1.25rem;
   overflow: hidden;
+  color: $textColor;
 
   @media screen and (min-width: 48em) {
     max-width: 46rem;
@@ -35,6 +36,7 @@
   }
 
   &__title {
+    color: $titleColor;
     margin-bottom: 1rem;
 
     @media screen and (min-width: 48em) {
