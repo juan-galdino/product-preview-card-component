@@ -39,12 +39,18 @@
     <main>
       <article class="grid product">
         <section>
-          <img
-            class="product__img"
-            src="images/image-product-mobile.jpg"
-            alt="Photo of the perfurme"
-            loading="lazy"
-          />
+          <picture>
+            <source
+              media="(min-width: 48em)"
+              srcset="images/image-product-desktop.jpg"
+            />
+            <img
+              class="product__img"
+              src="images/image-product-mobile.jpg"
+              alt="Photo of the perfurme"
+              loading="lazy"
+            />
+          </picture>
         </section>
         <section class="product__details">
           <span class="product__type">PERFUME</span>
