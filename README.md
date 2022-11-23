@@ -69,7 +69,7 @@
 
 ## About The Project
 
-[![Card component Screen Shot][product-screenshot]]
+![Card component Screen Shot][product-screenshot]
 
 This project is just a way to solve this challenge from [Frontend Mentor][frontend-mentor-url],
 a place where are a lot of challenges for every level of frontend skills. The objective is to reproduce in code the same image above.
@@ -78,6 +78,7 @@ a place where are a lot of challenges for every level of frontend skills. The ob
 
 ### Built With
 
+- [![Parcel][parcel-shield]][parcel-url]
 - [![Sass][sass-shield]][sass-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -117,7 +118,7 @@ Make sure you have [NodeJs](https://nodejs.org) installed.
 
 - [x] HTML Structure
 - [x] Mobile Design
-- [ ] Desktop Design
+- [x] Desktop Design
 
 See the [open issues](https://github.com/juan-galdino/product-preview-card-component/issues) for a full list of proposed features (and known issues).
 
@@ -184,6 +185,8 @@ Project Link: [https://github.com/juan-galdino/product-preview-card-component](h
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/juangaldino
 [product-screenshot]: src/images/product-screenshot.png
+[parcel-shield]: https://img.shields.io/badge/-parcel-F87171?style=for-the-badge
+[parcel-url]: https://parceljs.org/
 [sass-shield]: https://img.shields.io/badge/Sass-BF4080?style=for-the-badge&logo=sass&logoColor=white
 [sass-url]: sass-lang.com
 [gitmoji-shield]: https://img.shields.io/badge/gitmoji-%20%F0%9F%98%9C%20%F0%9F%98%8D-FFDD67.svg?style=for-the-badge
