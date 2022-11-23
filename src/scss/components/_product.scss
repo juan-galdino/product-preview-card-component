@@ -20,13 +20,12 @@
     padding: 2em;
     display: flex;
     flex-direction: column;
-
-
   }
 
   &__type {
     display: block;
     margin-bottom: 1rem;
+    letter-spacing: 0.5rem;
   }
 
   &__title, 
