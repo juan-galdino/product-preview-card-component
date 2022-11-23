@@ -1,3 +1,5 @@
+@use '../utils' as *; 
+
 html {
   box-sizing: border-box;
   font-size: 100%;
@@ -13,4 +15,14 @@ body {
   padding: 0;
   margin: 0;
   font-family: 'Montserrat', sans-serif;
+  background-color: $pageBackgroundColor;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  padding-inline: 1rem;
 }
