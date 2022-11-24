@@ -2,26 +2,37 @@
 
 .product {
   display: grid;
-  max-width: 21.4375rem;
+  flex-direction: column;
+  max-width: 23.4375rem;
   background-color: $productBackgroundColor;
   border-radius: 1.25rem;
-  overflow: hidden;
   color: $textColor;
+  margin-bottom: 2rem;
 
   @media screen and (min-width: 48em) {
     max-width: 46rem;
     grid-template-columns: 1fr 1fr;
+    overflow: hidden;
   }
-  
+
   &__img {
     width: 100%;
     height: 100%;
+    border-radius: 1.25rem 1.25rem 0 0;
+
+    @media screen and (min-width: 48em) {
+      border-radius: 0;
+    }
   }
   
   &__details {
-    padding: 2em;
+    padding: 1.5rem;
     display: flex;
     flex-direction: column;
+
+    @media screen and (min-width: 48em) {
+      padding: 2rem;
+    }
   }
 
   &__type {
@@ -45,7 +56,7 @@
     }
   }
 
-  & p {
+  p {
     margin-bottom: 1rem;
 
     @media screen and (min-width: 48em) {
