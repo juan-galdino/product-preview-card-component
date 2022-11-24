@@ -1,14 +1,17 @@
 {
   "name": "product-preview-card",
   "version": "1.0.0",
-  "description": "A simple product preview card component.",
+  "description": "A product card component with sass and parcel.",
   "main": "index.js",
-  "scripts": {
-    "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html"
+  "source": "src/index.html",
+  "targets": {
+    "main": false
   },
-  "keywords": [],
-  "author": "juan-galdino",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "author": "Juan Galdino",
   "license": "MIT",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.0",
