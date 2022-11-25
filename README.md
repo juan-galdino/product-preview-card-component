@@ -32,7 +32,7 @@
     <a href="https://github.com/juan-galdino/product-preview-card-component"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/juan-galdino/product-preview-card-component">View Demo</a>
+    <a href="https://challengeproductpreviewtest.netlify.app/" target="_blank" >View Demo</a>
     ·
     <a href="https://github.com/juan-galdino/product-preview-card-component/issues">Report Bug</a>
     ·
